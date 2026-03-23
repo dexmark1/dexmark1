@@ -1,18 +1,17 @@
 # Hi, I'm Dejan (Dex) Markoski 👋
-### DevOps & SRE Engineer | 20 Years IT Experience
+### DevOps & SRE Engineer | 20 Years IT Experience | high-availability cloud-native infrastructure and automated scaling
 
-I am a Senior IT professional specializing in **Infrastructure as Code** and **Site Reliability Engineering**. With two decades in the industry, I focus on automating CI/CD platforms and optimizing Kubernetes at scale.
+I am a global B2B contractor specializing in **Infrastructure as Code (IaC)** and **Site Reliability Engineering**. I have a proven track record of managing high-traffic production environments, including **250-node clusters and 600+ active pods**.
 
-- 🔭 **Current Focus:** High-availability architecture, technical debt reduction and production scaling. 
-- 🛠 **Key Expertise:** Terraform, Pulumi, Kubernetes (EKS) and advanced Observability (New Relic, Zabbix).
-- 💼 **Professional Note:** Most of my production-grade work—including global Jenkins-as-Code deployments and high-stakes scaling is hosted in private enterprise repositories.
+- 🌍 **Availability:** Worldwide B2B (Bulgarian/EU Citizen). No visa sponsorship required.
+- 🔭 **Current Focus:** High-availability architecture, technical debt reduction and production scaling, Multi-Cloud scaling and Observability.
+- 🛠 **Key Expertise:** Azure/AWS, Terraform, Kubernetes (AKS/EKS) and advanced Monitoring.
+- 💼 **Professional Note:** Most of my production-grade work—including global Jenkins-as-Code deployments—is hosted in private enterprise repositories.
 
 ---
 
 ### 🧰 Tech Stack
-- **Cloud:** AWS, Hetzner, DigitalOcean, Vultr
-- **IaC & Automation:** Terraform, Pulumi, Jenkins (JCasC)
-- **Containerization:** Kubernetes (EKS/Bare-metal), Docker
-- **Observability:** New Relic, Sentry
-
----
+- **Cloud:** Azure, AWS, Hetzner, DigitalOcean, Vultr
+- **IaC & Automation:** Terraform, Pulumi, Jenkins (JCasC), GitHub Actions
+- **Orchestration:** Kubernetes (AKS/EKS/Bare-metal), Docker, Helm
+- **Observability:** Prometheus, Grafana, New Relic, Zabbix, Sentry
